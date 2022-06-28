@@ -1,0 +1,31 @@
+h1{
+    color:brown;
+    background-color:burlywood ;
+}
+Button{
+    background-color: blueviolet;
+    color:beige;
+    border-color: beige;
+}
+h2{
+    color:palevioletred;
+    background-color: aquamarine;
+}
+
+section {
+    height: 800px;
+    width: 80%;
+    background-color: orchid;
+    text-align: center;
+    margin: auto;
+    background-image: url("https://images.unsplash.com/photo-1644982653424-1bfed7f972a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=789&q=80");
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h3 {
+    font-size: 100px;
+    color: white;
+    
+}
